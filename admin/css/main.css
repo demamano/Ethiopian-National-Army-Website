@@ -1,0 +1,70 @@
+.grey {
+    background-color: rgb(240, 240, 240);
+
+}
+
+.white {
+    background-color: white;
+    padding-top: 120px;
+
+}
+
+.btn {
+
+    padding: 10px;
+    padding-right: 40px;
+    margin-top: 60px;
+    margin-right: 70px;
+    font-size: 16px;
+    color: white;
+    font-family: Arial;
+    padding: 10px;
+    width: 120px;
+    height: 30px;
+    position: absolute;
+    right: -20px;
+    top: -20px;
+    text-decoration: none;
+    border: none;
+}
+
+.brand {
+    background: #cbb09c !important;
+    
+
+}
+.submit
+{
+    position: relative;
+    background: #cbb09c !important;
+}
+
+/* .z-depth-0 {
+    
+} */
+
+.brand-text {
+    color: #cbb09c !important;
+    padding: 20px;
+    font-size: 20px;
+    /* position: absolute; */
+    right: 250px;
+    top: -20px;
+    margin-top: 55px;
+    text-decoration: none;
+}
+
+.grey-text {
+    color: rgb(216, 215, 210);
+    font-size: 20px;
+}
+.red-text{
+    color: red;
+}
+.card-content{
+    color: rgb(121, 116, 98);
+    font-family: Arial;
+    font-size: 16;
+    display: inline-block;
+    margin-left: 300px;
+}
